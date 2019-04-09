@@ -169,6 +169,9 @@ h1 {
 body {
   background-color: blue; }
 
+footer {
+  background-color: #119944; }
+
 @media only screen and (min-width: 560px) {
   h1 {
     color: green; }

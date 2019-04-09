@@ -1,0 +1,10 @@
+/* apply a natural box layout to all elements */
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: red;
+}

@@ -4,8 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.11.0",
-    "scss-compile": "^0.1.7"
+    "node-sass": "^4.11.0"
   },
   "scripts": {
     "sass": "yarn node-sass ./scss/styles.scss ./css/styles.css"
